@@ -1,0 +1,314 @@
+                         Exeray Software License Agreement
+
+	
+This agreement is between you and Exeray Inc. These terms apply to the software products and services 
+you license from Exeray, unless and until we agree on a new contract that expressly replaces this one. You 
+represent that you have the power and authority to accept this agreement on behalf of your company. By 
+downloading, installing, or using the Exeray products or services, you consent to the terms and conditions 
+of this agreement on behalf of yourself and the company on whose behalf you will use the Exeray products 
+and services covered by this agreement. The effective date of this agreement is the date that you first 
+download, install or use the Exeray products or services. If you do not agree to the terms and conditions of 
+this agreement, please do not use Exeray product and you must destroy all copies of the Exeray product on 
+your computer, work station, server, virtual host, or any hardware device.
+
+1. Ownership
+The software product which you are downloading, installing, and using is owned or licensed by Exeray and 
+its structure, algorithm, program are valuable trade secrets of Exeray and  are protected by the United States 
+copyright laws, laws of other nations, and/or international treaties. The software product is licensed and not 
+sold to you. 
+
+2. Products and Services
+    The Exeray products and services that you may license under this agreement include:
+    2.1.  Licensed Product, which means the Exeray Enabler product. 
+    2.2.  Support Services, which means the software maintenance, upgrade, and support services described 
+in section 5.
+    2.3. Training Services, which means education courses in the use of Exeray software products.
+
+3. Licenses
+Exeray software is licensed, not sold.  This agreement only gives you certain rights to use the software, 
+which may be revoked if you do not follow these terms. The Licensed Product along with a License Key may be 
+intended for one node or multiple nodes.  A "node" refers to a specific hardware device or machine. Exeray 
+grants you the following rights, subject to your purchase of the corresponding Software License and the 
+terms and conditions below: 
+
+    3.1 Evaluation License: Exeray grants you a nonexclusive, nontransferable, limited license to internally
+use the Products, subject to the restrictions stated in this agreement, only for the purpose of evaluating,
+testing, prototyping, and demonstrating your application and only as long as your application has not been
+used for business, commercial, or production purposes. You may make copies of the Products to the extent
+reasonably necessary to exercise the license rights granted in this agreement. You may make one copy of the
+Products for backup purposes.
+
+    3.2. Device (Node-locked) License: The Licensed Product along with a License Key may be installed 
+only on one specific node and used only on the node on which it is installed. 
+
+    3.3. Floating License:  The Licensed Product may be installed and used on only one node (original node). 
+You may install and use the Licensed Product on a different node (new node) only if you destroy all copies 
+of the Licensed Product and License Key on the original node and pay Exeray a service charge specified in a 
+Purchase Agreement for the Floating License.
+
+    3.4. Volume License: The Licensed Product along with a License Key may be installed on a number of 
+nodes equal to or less than the number of node licenses you have purchased. 
+
+    3.5. Distribution License:  The Licensed Product may be incorporated into (or may be provided as 
+components to accompany) software and hardware products or services sold by you only if (a) you do so 
+under this Distribution License, and (b) you retain without modification any copyright, patent, trademark, 
+or attribution notices that are present in the Licensed Product.
+
+    3.6. Conditions: Your right to use the Licensed Product is conditioned upon your timely payment of the 
+full amount of Fees due for the Licensed Product and your compliance with the terms of this agreement, 
+including the following restrictions. 
+
+    3.7. Restrictions: You may not (and may not allow anyone else to):
+(a) reverse engineer, reverse compile, disassemble, or otherwise attempt to derive the source code  
+or modify the binary code for any Licensed Product or any underlying algorithms or data structures 
+embodied in a Licensed Product;
+(b) tamper with, or attempt to reconfigure or disable, any License Key;
+(c) distribute Licensed Product except as expressly allowed by the license rights in this agreement;
+(d) modify or create a derivative work of any part of a Licensed Product or Documentation;
+e) disclose benchmark test results related to the Licensed Product without Exeray's prior consent;
+(f) copy, install, or use any Licensed Product (or Documentation) in any manner that is not 
+expressly allowed by the license rights;
+(g) use this product to violate any law, including copyright laws.
+
+    3.8. Transfers and Assignments: You may not transfer or assign your license rights to any other person or 
+entity in any manner (by assignment, operation of law or otherwise) without written consent from Exeray.
+    3.9. Copies: You may make copies of the Licensed Product and Documentation for backup purposes. If 
+you choose to do so, all copyright, trademark, and other notices in the original copy must be reproduced in 
+the backup copies.
+
+4. Fees and Payment
+    4.1. Fees: The Fees for Exeray software licenses you may purchase under this agreement will be specified 
+in the Purchase Agreements. You agree to make payments according to the terms set forth in the applicable 
+Purchase Agreement.
+
+    4.2. Payments: If the applicable Purchase Agreement does not contain specific payment terms, payment 
+of the Fees will be due within 30 days after the date of Exeray's invoice. All payments must be made in U.S. 
+dollars. If full payment is not received by Exeray by the scheduled due date, Exeray will have the right to 
+withhold  the issuing of License Keys and/or terminate this agreement or a Purchase Agreement and make 
+all remaining payments immediately due. All payments that you make to Exeray are non-refundable. If you 
+do not pay full amount by the due date, you must also pay Exeray a late payment charge of 1.5% per month 
+or the highest rate permitted by law, whichever is less.
+
+    4.3. Taxes: You are fully responsible for paying all taxes (including sales, use, consumption, withholding, 
+and value-added taxes and similar taxes), other than Exeray's income taxes, that are imposed on or result 
+from your license, or use of Exeray products and services. If applicable law requires Exeray to collect and 
+remit any such taxes, Exeray may invoice you for such taxes and you agree to pay the invoiced amount to 
+Exeray. If you are required by the respective jurisdiction where the Licensed Products are used, or where 
+services are provided, to withhold taxes from payments to Exeray, you may withhold from the total amount 
+the minimum amount required (but no more). You may only withhold taxes associated to a payment at the 
+time of such payment. You must then promptly pay that amount to the appropriate tax authority and 
+provide Exeray with an official receipt for the payment within 60 days of your payment.
+
+5. Services
+    5.1. Support Services: Support Services consist of the following:
+(a) Support:  Exeray will provide you Documentation, and will use commercially reasonable efforts 
+to make available the Exeray Support Center on Monday through Friday, during Exeray's normal 
+business hours, excluding Exeray's scheduled holidays. A valid corporate email address is required 
+for Documentation.
+(b) Software Updates:  Exeray will use commercially reasonable efforts to provide error corrections 
+to the Licensed Products, as well as minor improvements to the Licensed Products. Any other 
+upgrades or enhancements to the Licensed Products may not be made available by Exeray as part of 
+Support Services and may be subject to additional charges.
+  
+    5.2. Conditions: In order to receive Support Services for a Licensed Product, you must meet all of the 
+following conditions:
+(a) you must have purchased Support Services for the Licensed Product;
+(b) you must appoint a qualified contact person to communicate with Exeray regarding Support 
+Services, and identify such person to Exeray in advance;
+(c) you must follow the instructions and procedures for the Licensed Product as specified in the 
+Documentation provided by Exeray; 
+(d) you must follow the directions outlined by the Exeray Support Center to resolve technical issues; 
+and
+(e) you must notify Exeray of any error or unexpected behavior in the Licensed Product according 
+to Exeray's current problem reporting procedure.
+
+    5.3. Exclusions: Exeray will have no obligation to provide Support Services for any Licensed Products 
+that are damaged, modified (by anyone other than Exeray), incorporated into other software, or installed in 
+any computing environment not supported by Exeray; or for any version of a Licensed Product other than 
+the latest and immediately preceding version; or for any problems caused by your negligence, abuse, misuse, 
+or by any causes beyond Exeray's reasonable control.
+
+    5.4. Reinstatement of Support Services: If your Support Services are terminated for any reason, or if you 
+wish to renew Support Services more than thirty (30) days after Support Services have been terminated, you 
+may be permitted to reinstate or renew Support Services provided that you pay Exeray all applicable 
+Support Services fees for the period during which you were off Support Services, and Exeray's then-current 
+reinstatement fee plus payment for the new term of Support Services.
+
+    5.5. Updates to Terms: Exeray may update its Support Services terms on 60 days prior written notice, 
+provided that these updates are applied generally to its Support Service customers.
+
+6. Confidentiality
+    6.1. Obligations: Each party, you or Exeray, agrees to abide by the following confidentiality obligations 
+in regard to the other party's Confidential Information: 
+(a) do not disclose it to any third party unless:  (i) the disclosure is expressly allowed under this 
+agreement,  (ii) the other party has given its specific and express prior written approval, or  (iii) the 
+disclosure is required by a valid court order or subpoena; 
+(b)  do not use it for any reason other than to exercise its rights and perform its obligation under this 
+agreement; 
+(c)  and protect it from unauthorized disclosure in the same way as that party protects its own 
+Confidential Information, and in any event with reasonable precautions.
+
+    6.2.  Notifications: If you must disclose Exeray's Confidential Information in order to comply with a valid 
+court order or subpoena, you must promptly notify and cooperate with Exeray if Exeray chooses to contest 
+the disclosure requirement, seek confidential treatment of the information to be disclosed, or to limit the 
+nature or scope of the information to be disclosed. Exeray agrees do the same if it believes it must disclose 
+your Confidential Information in these circumstances.
+
+7. Term and Termination
+    7.1 Term: This License Agreement is effective upon installation of Licensed Product until terminated.
+    7.2 Termination: You may terminate this Agreement at any time by destroying all copies of Licensed 
+Product. This Agreement will terminate immediately without notice from Exeray if you violate any term of 
+this Agreement.  If you bring or threaten to bring a patent claim against Exeray (including any claim, cross-
+claim or counterclaim in a lawsuit) to enforce any patents that you allege are infringed by the Licensed 
+Product, then your rights under this agreement will terminate immediately. In the event of termination, 
+you must destroy all copies of the Licensed Product.  In addition, you must remove all copies of the 
+Licensed Product, including all backup copies, from the all computers and servers on which it is installed.
+
+8. Limited Warranty
+    8.1. Warranty Period: Ninety (90) days after Exeray delivers a Licensed Product to you.
+    8.2. Warranty: During the warranty period, Exeray warrants that the Licensed Product are free of Errors 
+when used on the correct platform and according to the instructions in the corresponding Documentation. 
+    8.3. Claims: During the warranty period, if you believe the warranty has been breached and if you wish 
+to claim a breach of the warranty, you must notify Exeray in writing of the Error or Errors that you have 
+encountered and provide Exeray with all the information you have, in written or electronic form, about 
+those Errors, so that Exeray can attempt to reproduce, diagnose, and correct the Errors.
+    8.4. Exclusive Remedy: Exeray will provide exclusive remedy to you for any breach of this warranty. 
+The provided exclusive remedy is that Exeray will take commercially reasonable efforts, at no charge, to 
+correct the Errors you have reported or provide a replacement product that does not contain these Errors, 
+or if Exeray is unable to provide a correction or a replacement or determines that it will not be feasible to do 
+so, Exeray will refund the Fees you paid for the applicable license. Your remedy set forth herein is exclusive 
+and the total liability of Exeray with respect to the Licensed Product, whether based on contract, warranty, 
+tort, negligence, indemnification, strict liability or otherwise, shall not exceed the purchase price of the 
+Software License upon which liability is based. 
+    8.5. Disclaimer: This is the only warranty Exeray provides for the Licensed Products. Except for this 
+warranty, all Licensed Products, Documentation, are provided "AS IS". Exeray makes no other warranty or 
+condition of any kind, either expressed or implied, statutory or otherwise, with respect to the Licensed 
+Product including, but not limited to, the implied warranties or conditions of merchantability and fitness for 
+a particular purpose. In no event shall Exeray be liable for any direct, indirect, special, consequential, or 
+incidental or damages  (including without limitation, loss or damage of data, damages for loss of revenues or 
+profits, business interruption, loss of business information, and the like) arising out of the use, misuse, or 
+inability to use the Licensed Product. 
+
+9. Other Terms
+    9.1. Compliance Verification: Exeray may audit your use of the Licensed Products and Documentation 
+to verify your compliance with this agreement. Exeray may use its own employees and or employees of an 
+independent auditing firm that is subject to appropriate confidentiality obligations for the audit. You agree 
+to give Exeray or the auditing firm reasonable access to your facilities. You agree to create, retain, and 
+provide to Exeray and its auditors accurate written records, system tool outputs, and other system 
+information sufficient for purposes of conducting these audits. Exeray will give you at least five business days 
+advance notice before conducting an audit. Audits will be conducted in a manner that minimizes 
+disruption to your business, and may be conducted on your premises or in your cloud environment, during 
+normal business hours and no more than once per year, unless Exeray has a good-faith basis for believing 
+that more frequent audits are warranted.  Exeray will notify you in writing if any such verification reveals 
+that you have used Licensed Product in excess of its authorized use or is otherwise not in compliance with 
+this agreement.  You agree to promptly pay directly to Exeray the charges that Exeray specifies in an invoice 
+for (a) any such excess use, (b) support for such excess use for the lesser of the duration of such excess use or 
+two years, (c) all costs and expenses incurred in conducting the audit, and (d) any additional charges and 
+other liabilities determined as a result of such verification. The rights and obligations set forth in this Section 
+9.1 remain in effect during the period the Licensed Product is licensed to you, and for two years thereafter.  
+
+  9.2. Export Controls: Exeray software products or documentation covered under this agreement are 
+subject to United States export controls and the trade laws of other countries. You and Exeray agree to 
+comply with all export control regulations and to obtain any required licenses or classification to export, 
+transfer, re-export or import the Licensed Product, directly or indirectly. You also agree not to export or 
+re-export, without a U.S. Bureau of Industry and Security license or license exception, to entities on the 
+current U.S. export exclusion lists or to any embargoed or terrorist countries as specified in the U.S. export 
+laws. You will not use the Licensed Product for prohibited nuclear, missile, or chemical biological 
+weaponry end uses. Please consult the Bureau of Industry and Security web page www.bis.doc.gov before 
+exporting Exeray products from the United States. Exeray assumes no responsibility for your failure to 
+obtain any necessary export approvals.
+
+  9.3. Governing Law; Jurisdiction: This agreement is governed by the laws of the United States and the 
+State of California, without regard to conflicts of laws principles. The federal and state courts located in 
+Contra Costa County, California have exclusive jurisdiction over any disputes arising from or relating to 
+this agreement, and you consent to such jurisdiction and venue.
+
+  9.4. Notices: Any notice, approval, consent, or other communication intended to have legal effect under 
+this agreement must be given to the other party in written form, must be sent by first-class, registered, or 
+overnight mail or private overnight, and will be deemed given upon receipt or when delivery is refused. 
+
+  9.5. Waivers: Either party's failure to enforce any provision of this agreement will not be deemed a waiver 
+of the future enforcement of that provision or enforcement of any other provision. In order to be binding, a 
+waiver must be in writing and signed by the party giving the waiver.
+
+  9.6. Severability: If any provision in this agreement is found to be invalid or unenforceable as written, the 
+remaining provisions will remain in full force and effect and the invalid or unenforceable provision is to be 
+construed (and, if necessary, modified) so that it is valid and enforceable to the greatest extent possible.
+
+  9.7. Attorneys' Fees: In the event of any litigation arising from or related to this agreement, or the services 
+provided under this agreement, the prevailing party shall be entitled to recover from the non-prevailing 
+party all reasonable costs incurred including staff time, court costs, attorney's fees, and all other related 
+expenses incurred in such litigation.
+
+  9.8. Remedies: All rights and remedies of either party are cumulative, except for the exclusive remedies 
+expressly provided in this agreement. You agree that monetary damages alone would not be sufficient 
+enough to compensate Exeray fully for its damages, and therefore Exeray will be entitled to injunctive relief 
+in the event of your breach of the license restrictions or confidentiality provisions in this agreement.
+
+  9.9. Force Majeure: Neither party will be responsible for delay or failure to perform its obligations under 
+this agreement, except payment obligations, if and to the extent caused by the occurrence of a Force 
+Majeure. For purposes of this agreement, Force Majeure shall mean a cause or event that is not reasonably 
+foreseeable or otherwise caused by or under the control of the party claiming Force Majeure, including acts 
+of God, fires, floods, earthquakes, explosions, riots, wars, hurricane, governmental action, labor strikes, 
+supplier failures, or any other event or circumstance beyond that party's reasonable control.
+
+  9.10. Entire Agreement: This agreement and any applicable attachments and Purchase Agreements are the 
+entire agreement between Exeray and you concerning its subject matter, and supersede any prior or 
+contemporaneous agreements, communications, or understandings (whether written or oral). However, any 
+confidentiality or nondisclosure agreements that Exeray previously entered into with you will remain in 
+effect (according to their terms) with respect to the confidential information disclosed thereunder.
+
+  9.11. Amendments:  You and Exeray may make amendments to this agreement only by authorized 
+representatives of both parties by means of signed, written form. No additional or inconsistent terms on any 
+purchase order or similar document you may submit to Exeray will have any legal effect.
+
+
+
+                                       Glossary of Definitions
+
+Confidential Information of Exeray means (a) the Licensed Products, in any form, the Documentation, and 
+the License Keys; (b) design techniques and all ideas and information (such as algorithms, data structures, and 
+code) contained or embodied in the Licensed Products, Documentation, License Keys; (c) the prices, 
+discounts, payment terms, and other information in the Purchase Agreements; (d) Exeray Training Services 
+materials including without limitation presentations, demonstrations, software and course handouts, and (e) 
+any other confidential or proprietary information that Exeray provides to you related to this agreement. 
+Your Confidential Information is any confidential or proprietary information in (a) written form that you 
+provide to Exeray in order for Exeray to fulfill your orders and provide products and services to you under 
+this agreement, and (b) oral form that you provide to Exeray in order to receive Support Services; as long as 
+you notify Exeray at the time of disclosure that such information is to be treated as confidential under this 
+agreement. However, Feedback is not your Confidential Information. Also, Confidential Information does 
+not include any of the following:
+a.	information that has become generally available to the public, through no fault of yours (in the case 
+of Exeray Confidential Information) or Exeray (in the case of your Confidential Information) and 
+that is not still regarded as a trade secret under laws governing information that was negligently or 
+maliciously distributed;
+b.	information that the receiving party had already obtained in a tangible form, through lawful means, 
+before obtaining it under this agreement;
+c.	information that the receiving party developed independently, without the use of any materials or 
+information obtained from the other party in connection with this agreement;
+d.	information that the receiving party has lawfully obtained, in a tangible form, from a third party that 
+had the right to provide it to the receiving party; or
+e.	information that the disclosing party releases for publication in writing.
+
+Documentation means any user manuals, reference manuals, release, application and methodology notes, 
+written utility programs, and other materials in any form provided by Exeray for use with a Licensed 
+Product.
+
+Error means a defect in a Licensed Product that causes it to deviate substantially from the specifications in 
+the corresponding Documentation.
+
+Feedback means any ideas or suggestions you voluntarily provide to Exeray (in any manner, whether in 
+writing or orally or otherwise) regarding the Licensed Products, Documentation, or design techniques, 
+including possible enhancements or improvements.
+
+Fees means the amounts you must pay when you purchase license of products and services from Exeray 
+under this agreement, as identified in each Purchase Agreement.
+
+License Key means a document either in physical or electronic format provided by Exeray that identifies: (a) 
+the Licensed Product licensed to you;  (b) the identity and/or number of authorized nodes.
+
+Purchase Agreement means the applicable Exeray sales quotation, conditions and terms that are related to 
+the products and services that you have licensed or purchased, including pricing information.
+
+You  means the entity that signs or agrees to this agreement as the customer.
+
