@@ -1,0 +1,36 @@
+
+1. Introduction
+
+The fastest C++ container class library. 
+AbaxMap      -- hashed and sorted key-value store. Keys can be composite keys such as in "%d,%s,%d" format.
+AbaxMultiMap -- hashed and sorted multiple key-value store. Keys can be composite keys such as in "%d,%s,%d" format.
+AbaxSet      -- hashed and sorted key store. Keys can be composite keys such as in "%d,%s,%d" format.
+AbaxMultiSet -- hashed and sorted multi-key store. Keys can be composite keys such as in "%d,%s,%d" format.
+AbaxHashMap  -- hash table of key-value store. 
+AbaxHashSet  -- hash table of key store. 
+AbaxHashList -- linked list with hash access, with insertion order and key order.
+AbaxCounter  -- key store with counts of the keys, with key order and count order.
+AbaxPriorityQueue  -- priority queue
+AbaxVector   -- vector class
+AbaxQueue    -- queue data structure
+AbaxStack    -- stack data structure
+AbaxList     -- single linked list
+AbaxGraph    -- dynamic undirected/directed graph, with nodes, links (edges), link properties, link weights.
+AbaxReadWriteMutex -- read and write mutex for locking objects
+AbaxClock    -- stop watch
+AbaxMemory   -- memory tracker
+
+2. How to install
+
+   Use root account or sudo account:
+
+   # tar zxf abaxN.C++.X86_64.tar.gz
+   # cd abaxN.C++.X86_64
+   # ./install.sh
+
+   (N is the version number of the package).
+   
+3. How to program
+
+   Read the AbaxUserManual.pdf document.
+
