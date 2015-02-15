@@ -34,3 +34,35 @@ AbaxMemory   -- memory tracker
 
    Read the AbaxUserManual.pdf document.
 
+
+4. Comparison of traditional associative containers:
+
+    The asymptotic complexity of the operations that can be applied to associative containers are as follows:
+
+    Regular containers:
+    ----------------------------------------------------------
+    |            Operation                   |   Complexity  |
+    ----------------------------------------------------------
+    |  Searching for an element              |  O(log n)     |
+    ----------------------------------------------------------
+    |  Inserting a new element               |  O(log n)     |
+    ----------------------------------------------------------
+    |  Incrementing/decrementing an iterator |	O(log n)     |
+    ----------------------------------------------------------
+    |  Removing a single element             |	O(log n)     |
+    ----------------------------------------------------------
+    
+    Abax containers:
+    ----------------------------------------------------------
+    |            Operation                   |  Complexity   |
+    ----------------------------------------------------------
+    |  Searching for an element              |  O(1)         |
+    ----------------------------------------------------------
+    |  Inserting a new element               |  O(log n)     |
+    ----------------------------------------------------------
+    |  Incrementing/decrementing an iterator |	O(1)         |
+    ----------------------------------------------------------
+    |  Removing a single element             |	O(1)         |
+    ----------------------------------------------------------
+
+
